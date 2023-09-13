@@ -1,4 +1,22 @@
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-color: #f4f4f4;
+  color: #444;
+}
+
+ul,
+ol {
+  line-height: 1.4;
+}
+
+a:link,
+a:visited {
+  color: #080707;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  color: orangered;
 }
